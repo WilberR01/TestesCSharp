@@ -1,0 +1,15 @@
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.AssemblyInfoInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.AssemblyInfo.cs
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.csproj.CoreCompileInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.sourcelink.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\bin\Debug\net9.0\1145.exe
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\bin\Debug\net9.0\1145.deps.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\bin\Debug\net9.0\1145.runtimeconfig.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\bin\Debug\net9.0\1145.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\bin\Debug\net9.0\1145.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\refint\1145.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\1145.genruntimeconfig.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1145\obj\Debug\net9.0\ref\1145.dll
