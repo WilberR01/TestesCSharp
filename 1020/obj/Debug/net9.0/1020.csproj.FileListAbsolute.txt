@@ -1,0 +1,15 @@
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\bin\Debug\net9.0\1020.exe
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\bin\Debug\net9.0\1020.deps.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\bin\Debug\net9.0\1020.runtimeconfig.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\bin\Debug\net9.0\1020.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\bin\Debug\net9.0\1020.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.AssemblyInfoInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.AssemblyInfo.cs
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.csproj.CoreCompileInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.sourcelink.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\refint\1020.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\1020.genruntimeconfig.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1020\obj\Debug\net9.0\ref\1020.dll
