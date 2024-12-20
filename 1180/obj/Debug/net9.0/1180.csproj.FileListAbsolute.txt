@@ -1,0 +1,15 @@
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.GeneratedMSBuildEditorConfig.editorconfig
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.AssemblyInfoInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.AssemblyInfo.cs
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.csproj.CoreCompileInputs.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.sourcelink.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\bin\Debug\net9.0\1180.exe
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\bin\Debug\net9.0\1180.deps.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\bin\Debug\net9.0\1180.runtimeconfig.json
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\bin\Debug\net9.0\1180.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\bin\Debug\net9.0\1180.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\refint\1180.dll
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.pdb
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\1180.genruntimeconfig.cache
+D:\Códigos\Geral\CSharp-Base\eduq\TestesCSharp\1180\obj\Debug\net9.0\ref\1180.dll
