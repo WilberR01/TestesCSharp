@@ -1,10 +1,6 @@
 ﻿int ano, mes, dia, diasUsuario;
 
-if (!int.TryParse(Console.ReadLine(), out diasUsuario))
-{
-    Console.WriteLine("Por favor, insira um número válido.");
-    return;
-}
+diasUsuario = int.Parse(Console.ReadLine());
 
 ano = diasUsuario / 365;
 diasUsuario = diasUsuario % 365;
